@@ -35,11 +35,6 @@ void DrawCoins(Mat gray, int x){
 	}
 }
 
-void compare(){
-	for(i = 0; i < C.size(); i++){
-		
-}
-
 int main( int argc, char** argv ){
 	t1 = imread("t1.png");
 	t2 = imread("t2.png");
